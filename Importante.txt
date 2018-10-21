@@ -1,0 +1,15 @@
+defensa final 6 de diciembre
+el sistema funcionando al 100 
+6 de septiembre la 1 evaluacion 
+27 de septimebre 2 evaluacion 
+15 de nobiembre es la defensa de
+ documuentacion
+manuela de usuario 
+manuel del sistema 
+1 Objetivos Generales y  especificos 
+2 pantallas del sistema 
+3 Resumen de la exposicion
+jueves :Diseño tantatipo de la Base de dato (tablas, PK,FK,RR{1:N,1:1,N:1})
+ diseño en funcion 1,2,3 y debe responder a los puntos especificados
+Jueves Plantilla Web, para subir el diseño 
+un servidor gratuito donde podemos subir todas las dudas

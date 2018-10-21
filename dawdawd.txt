@@ -1,0 +1,7 @@
+create
+( 
+loguinvarchar(15),
+clave varchar(40),
+
+
+)
